@@ -6,3 +6,4 @@ pip3 install --user tensorflow-rocm --upgrade
 pip3 install tensorflow
 pip3 install SmilesPE
 pip3 install transformers
+./submit_frontier.sh
