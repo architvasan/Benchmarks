@@ -9,7 +9,7 @@
     },
 
     "inference_data": {
-        "data_dir": "/lus/gila/projects/Shared/avasan/Inference_Data",
+        "data_dir": "/lus/eagle/projects/datascience/avasan/Workflow/EarlyESPRuns/Data/InferenceData",
         "databases": ["BDB"]
     },
 
